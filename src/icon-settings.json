@@ -292,10 +292,12 @@
 			"iconPath": "ConfigurationFile_16x.svg",
 			"fileExtensions": [
 				"config",
-				"conf"
+				"conf",
+				"cfg"
 			],
 			"fileNames": [
-				".editorconfig"
+				".editorconfig",
+				"project.godot"
 			]
 		},
 		{
@@ -347,6 +349,20 @@
 		{
 			"iconPath": "Document_16x.svg",
 			"fileExtensions": [],
+			"fileNames": []
+		},
+		{
+			"iconPath": "Elixir_16x.svg",
+			"fileExtensions": [
+				"ex"
+			],
+			"fileNames": []
+		},
+		{
+			"iconPath": "ElixirScript_16x.svg",
+			"fileExtensions": [
+				"exs"
+			],
 			"fileNames": []
 		},
 		{
@@ -427,10 +443,18 @@
 			]
 		},
 		{
+			"iconPath": "Godot.svg",
+			"fileExtensions": [
+				"gd"
+			]
+		},
+		{
 			"iconPath": "HTMLFile_16x.svg",
 			"fileExtensions": [
 				"htm",
-				"html"
+				"html",
+				"eex",
+				"leex"
 			],
 			"fileNames": []
 		},
@@ -784,6 +808,12 @@
 			"fileNames": []
 		},
 		{
+			"iconPath": "Scene.svg",
+			"fileExtensions": [
+				"tscn"
+			]
+		},
+		{
 			"iconPath": "Settings_16x.svg",
 			"fileExtensions": [
 				"settings"
@@ -802,6 +832,12 @@
 				".jshintignore",
 				"procfile",
 				".buildignore"
+			]
+		},
+		{
+			"iconPath": "ShaderMaterial.svg",
+			"fileExtensions": [
+				"material"
 			]
 		},
 		{

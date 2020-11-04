@@ -198,6 +198,24 @@
         "Document_16x_contrast.svg": {
             "iconPath": "./images/Document_16x_contrast.svg"
         },
+        "Elixir_16x.svg": {
+            "iconPath": "./images/Elixir_16x.svg"
+        },
+        "Elixir_16x_inverse.svg": {
+            "iconPath": "./images/Elixir_16x_inverse.svg"
+        },
+        "Elixir_16x_contrast.svg": {
+            "iconPath": "./images/Elixir_16x_contrast.svg"
+        },
+        "ElixirScript_16x.svg": {
+            "iconPath": "./images/ElixirScript_16x.svg"
+        },
+        "ElixirScript_16x_inverse.svg": {
+            "iconPath": "./images/ElixirScript_16x_inverse.svg"
+        },
+        "ElixirScript_16x_contrast.svg": {
+            "iconPath": "./images/ElixirScript_16x_contrast.svg"
+        },
         "Extension_16x.svg": {
             "iconPath": "./images/Extension_16x.svg"
         },
@@ -278,6 +296,15 @@
         },
         "GitLogo_16x_contrast.svg": {
             "iconPath": "./images/GitLogo_16x_contrast.svg"
+        },
+        "Godot.svg": {
+            "iconPath": "./images/Godot.svg"
+        },
+        "Godot_inverse.svg": {
+            "iconPath": "./images/Godot_inverse.svg"
+        },
+        "Godot_contrast.svg": {
+            "iconPath": "./images/Godot_contrast.svg"
         },
         "HTMLFile_16x.svg": {
             "iconPath": "./images/HTMLFile_16x.svg"
@@ -612,6 +639,15 @@
         "SassStyleSheet_16x_contrast.svg": {
             "iconPath": "./images/SassStyleSheet_16x_contrast.svg"
         },
+        "Scene.svg": {
+            "iconPath": "./images/Scene.svg"
+        },
+        "Scene_inverse.svg": {
+            "iconPath": "./images/Scene_inverse.svg"
+        },
+        "Scene_contrast.svg": {
+            "iconPath": "./images/Scene_contrast.svg"
+        },
         "Settings_16x.svg": {
             "iconPath": "./images/Settings_16x.svg"
         },
@@ -629,6 +665,15 @@
         },
         "SettingsFile_16x_contrast.svg": {
             "iconPath": "./images/SettingsFile_16x_contrast.svg"
+        },
+        "ShaderMaterial.svg": {
+            "iconPath": "./images/ShaderMaterial.svg"
+        },
+        "ShaderMaterial_inverse.svg": {
+            "iconPath": "./images/ShaderMaterial_inverse.svg"
+        },
+        "ShaderMaterial_contrast.svg": {
+            "iconPath": "./images/ShaderMaterial_contrast.svg"
         },
         "SitemapFile_16x.svg": {
             "iconPath": "./images/SitemapFile_16x.svg"
@@ -826,7 +871,7 @@
             "elc": "FOR_TEST_ONLY",
             "elv": "FOR_TEST_ONLY",
             "erl": "FOR_TEST_ONLY",
-            "ex": "FOR_TEST_ONLY",
+            "ex": "Elixir_16x.svg",
             "fasl": "FOR_TEST_ONLY",
             "fish": "FOR_TEST_ONLY",
             "go": "FOR_TEST_ONLY",
@@ -897,6 +942,7 @@
             "crt": "Certificate_16x.svg",
             "config": "ConfigurationFile_16x.svg",
             "conf": "ConfigurationFile_16x.svg",
+            "cfg": "ConfigurationFile_16x.svg",
             "cmd": "Console_16x.svg",
             "sh": "Console_16x.svg",
             "bat": "Console_16x.svg",
@@ -908,6 +954,7 @@
             "mdb": "Database_16x.svg",
             "sqlite": "Database_16x.svg",
             "pdb": "Database_16x.svg",
+            "exs": "ElixirScript_16x.svg",
             "vsix": "Extension_16x.svg",
             "manifest": "ExtensionManagerManifest_16x.svg",
             "resx": "FileGroup_16x.svg",
@@ -928,8 +975,11 @@
             "sui": "Font_16x.svg",
             "ntf": "Font_16x.svg",
             "mrf": "Font_16x.svg",
+            "gd": "Godot.svg",
             "htm": "HTMLFile_16x.svg",
             "html": "HTMLFile_16x.svg",
+            "eex": "HTMLFile_16x.svg",
+            "leex": "HTMLFile_16x.svg",
             "ico": "Image_16x.svg",
             "png": "Image_16x.svg",
             "jpeg": "Image_16x.svg",
@@ -1033,12 +1083,14 @@
             "rlib": "RustFile_16x.svg",
             "sass": "SassStyleSheet_16x.svg",
             "scss": "SassStyleSheet_16x.svg",
+            "tscn": "Scene.svg",
             "settings": "Settings_16x.svg",
             "asax": "SettingsFile_16x.svg",
             "ini": "SettingsFile_16x.svg",
             "dlc": "SettingsFile_16x.svg",
             "dll": "SettingsFile_16x.svg",
             "toml": "SettingsFile_16x.svg",
+            "material": "ShaderMaterial.svg",
             "sitemap": "SitemapFile_16x.svg",
             "css": "StyleSheet_16x.svg",
             "ts": "TS_FileSENode_16x.svg",
@@ -1108,6 +1160,7 @@
             "license.md.rendered": "Certificate_16x.svg",
             "license.txt": "Certificate_16x.svg",
             ".editorconfig": "ConfigurationFile_16x.svg",
+            "project.godot": "ConfigurationFile_16x.svg",
             "dub.sdl": "CPPATLWebService_16x.svg",
             ".gitignore": "GitLogo_16x.svg",
             ".gitconfig": "GitLogo_16x.svg",
@@ -1162,7 +1215,7 @@
             "elc": "FOR_TEST_ONLY",
             "elv": "FOR_TEST_ONLY",
             "erl": "FOR_TEST_ONLY",
-            "ex": "FOR_TEST_ONLY",
+            "ex": "Elixir_16x_contrast.svg",
             "fasl": "FOR_TEST_ONLY",
             "fish": "FOR_TEST_ONLY",
             "go": "FOR_TEST_ONLY",
@@ -1233,6 +1286,7 @@
             "crt": "Certificate_16x_contrast.svg",
             "config": "ConfigurationFile_16x_contrast.svg",
             "conf": "ConfigurationFile_16x_contrast.svg",
+            "cfg": "ConfigurationFile_16x_contrast.svg",
             "cmd": "Console_16x_contrast.svg",
             "sh": "Console_16x_contrast.svg",
             "bat": "Console_16x_contrast.svg",
@@ -1244,6 +1298,7 @@
             "mdb": "Database_16x_contrast.svg",
             "sqlite": "Database_16x_contrast.svg",
             "pdb": "Database_16x_contrast.svg",
+            "exs": "ElixirScript_16x_contrast.svg",
             "vsix": "Extension_16x_contrast.svg",
             "manifest": "ExtensionManagerManifest_16x_contrast.svg",
             "resx": "FileGroup_16x_contrast.svg",
@@ -1264,8 +1319,11 @@
             "sui": "Font_16x_contrast.svg",
             "ntf": "Font_16x_contrast.svg",
             "mrf": "Font_16x_contrast.svg",
+            "gd": "Godot_contrast.svg",
             "htm": "HTMLFile_16x_contrast.svg",
             "html": "HTMLFile_16x_contrast.svg",
+            "eex": "HTMLFile_16x_contrast.svg",
+            "leex": "HTMLFile_16x_contrast.svg",
             "ico": "Image_16x_contrast.svg",
             "png": "Image_16x_contrast.svg",
             "jpeg": "Image_16x_contrast.svg",
@@ -1369,12 +1427,14 @@
             "rlib": "RustFile_16x_contrast.svg",
             "sass": "SassStyleSheet_16x_contrast.svg",
             "scss": "SassStyleSheet_16x_contrast.svg",
+            "tscn": "Scene_contrast.svg",
             "settings": "Settings_16x_contrast.svg",
             "asax": "SettingsFile_16x_contrast.svg",
             "ini": "SettingsFile_16x_contrast.svg",
             "dlc": "SettingsFile_16x_contrast.svg",
             "dll": "SettingsFile_16x_contrast.svg",
             "toml": "SettingsFile_16x_contrast.svg",
+            "material": "ShaderMaterial_contrast.svg",
             "sitemap": "SitemapFile_16x_contrast.svg",
             "css": "StyleSheet_16x_contrast.svg",
             "ts": "TS_FileSENode_16x_contrast.svg",
@@ -1444,6 +1504,7 @@
             "license.md.rendered": "Certificate_16x_contrast.svg",
             "license.txt": "Certificate_16x_contrast.svg",
             ".editorconfig": "ConfigurationFile_16x_contrast.svg",
+            "project.godot": "ConfigurationFile_16x_contrast.svg",
             "dub.sdl": "CPPATLWebService_16x_contrast.svg",
             ".gitignore": "GitLogo_16x_contrast.svg",
             ".gitconfig": "GitLogo_16x_contrast.svg",
@@ -1497,7 +1558,7 @@
         "elc": "FOR_TEST_ONLY",
         "elv": "FOR_TEST_ONLY",
         "erl": "FOR_TEST_ONLY",
-        "ex": "FOR_TEST_ONLY",
+        "ex": "Elixir_16x_inverse.svg",
         "fasl": "FOR_TEST_ONLY",
         "fish": "FOR_TEST_ONLY",
         "go": "FOR_TEST_ONLY",
@@ -1568,6 +1629,7 @@
         "crt": "Certificate_16x_inverse.svg",
         "config": "ConfigurationFile_16x_inverse.svg",
         "conf": "ConfigurationFile_16x_inverse.svg",
+        "cfg": "ConfigurationFile_16x_inverse.svg",
         "cmd": "Console_16x_inverse.svg",
         "sh": "Console_16x_inverse.svg",
         "bat": "Console_16x_inverse.svg",
@@ -1579,6 +1641,7 @@
         "mdb": "Database_16x_inverse.svg",
         "sqlite": "Database_16x_inverse.svg",
         "pdb": "Database_16x_inverse.svg",
+        "exs": "ElixirScript_16x_inverse.svg",
         "vsix": "Extension_16x_inverse.svg",
         "manifest": "ExtensionManagerManifest_16x_inverse.svg",
         "resx": "FileGroup_16x_inverse.svg",
@@ -1599,8 +1662,11 @@
         "sui": "Font_16x_inverse.svg",
         "ntf": "Font_16x_inverse.svg",
         "mrf": "Font_16x_inverse.svg",
+        "gd": "Godot_inverse.svg",
         "htm": "HTMLFile_16x_inverse.svg",
         "html": "HTMLFile_16x_inverse.svg",
+        "eex": "HTMLFile_16x_inverse.svg",
+        "leex": "HTMLFile_16x_inverse.svg",
         "ico": "Image_16x_inverse.svg",
         "png": "Image_16x_inverse.svg",
         "jpeg": "Image_16x_inverse.svg",
@@ -1704,12 +1770,14 @@
         "rlib": "RustFile_16x_inverse.svg",
         "sass": "SassStyleSheet_16x_inverse.svg",
         "scss": "SassStyleSheet_16x_inverse.svg",
+        "tscn": "Scene_inverse.svg",
         "settings": "Settings_16x_inverse.svg",
         "asax": "SettingsFile_16x_inverse.svg",
         "ini": "SettingsFile_16x_inverse.svg",
         "dlc": "SettingsFile_16x_inverse.svg",
         "dll": "SettingsFile_16x_inverse.svg",
         "toml": "SettingsFile_16x_inverse.svg",
+        "material": "ShaderMaterial_inverse.svg",
         "sitemap": "SitemapFile_16x_inverse.svg",
         "css": "StyleSheet_16x_inverse.svg",
         "ts": "TS_FileSENode_16x_inverse.svg",
@@ -1779,6 +1847,7 @@
         "license.md.rendered": "Certificate_16x_inverse.svg",
         "license.txt": "Certificate_16x_inverse.svg",
         ".editorconfig": "ConfigurationFile_16x_inverse.svg",
+        "project.godot": "ConfigurationFile_16x_inverse.svg",
         "dub.sdl": "CPPATLWebService_16x_inverse.svg",
         ".gitignore": "GitLogo_16x_inverse.svg",
         ".gitconfig": "GitLogo_16x_inverse.svg",
